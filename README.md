@@ -2,7 +2,7 @@
 
 Video link: https://youtu.be/v4YSbqlLlBg
 
-In this video, you’ll learn how to harness the power of SpaCy’s pre-trained embeddings to build a deep learning pipeline for sentiment classification!
+The goal of this project is to demonstrate how to effectively use SpaCy’s pre-trained embeddings to build a deep learning pipeline for sentiment classification, providing a practical approach to leveraging NLP models for text analysis tasks.
 
 We’ll start by diving into what SpaCy is, its capabilities (like tokenization, named entity recognition, and lemmatization), and how it simplifies NLP workflows. Then, we’ll guide you step-by-step through a practical example using a Jupyter Notebook, where we preprocess text, extract embeddings, and train a simple neural network using PyTorch.
 
